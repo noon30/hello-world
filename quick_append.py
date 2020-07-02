@@ -4,7 +4,7 @@ Created on Tue Jun  9 10:47:18 2020
 simple two file append
   part 1 of 2 monthly updates >>> csv version
   *** make sure update file has MSA removed and no extra fields at the end of the data (NaN)
-  - 
+  this has been added to GitHub- 
   
 @author: AndyOlson
 """
